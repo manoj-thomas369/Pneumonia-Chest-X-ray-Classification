@@ -1,3 +1,16 @@
+# 🫁 CHEST X-RAY PNEUMONIA CLASSIFICATION USING CNN 🫁
+
+## 🏆 OVERVIEW  
+🚀 This project detects **Pneumonia** from **Chest X-ray images** using Convolutional Neural Networks (CNNs) and Transfer Learning techniques.  
+🩺 Early diagnosis can support faster medical response and better patient outcomes.
+
+---
+
+## 📂 DATASET  
+📸 Thousands of chest X-ray images categorized into two classes:  
+✅ **NORMAL** – Healthy lungs  
+✅ **PNEUMONIA** – Infected lungs (bacterial or viral)
+
 
 📌 **Preprocessing Techniques**  
 🔹 Image Resizing & Normalization – Standardizes input for model compatibility  
